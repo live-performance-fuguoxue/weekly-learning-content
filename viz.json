@@ -1,0 +1,65 @@
+{
+	"pattrstorage" : 	{
+		"name" : "viz",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"grabbr::grabbrcontrols::viewsize" : [ 0.0 ],
+					"grabbr::grabbrcontrols::formatnum[1]" : [ 0 ],
+					"grabbr::grabbrcontrols::vdevnum[1]" : [ 0 ],
+					"playr::playercontrols::play-mult" : [ 0 ],
+					"playr::playercontrols::Playback_range" : [ 0.0, 1.0 ],
+					"playr::playercontrols::Speed_hi" : [ 1.0 ],
+					"playr::playercontrols::Speed_low" : [ 1.0 ],
+					"xfadr::xfade-value" : [ 0.960629921259843 ],
+					"zamplr::colormode" : [ 0.0 ],
+					"zamplr::gain" : [ 8.0 ],
+					"zamplr::horizontal" : [ 0.4 ],
+					"zamplr::vertical" : [ 0.0 ],
+					"zamplr::mode" : [ 2.0 ],
+					"freezr::invert" : [ 0 ],
+					"freezr::palette" : [ 0 ],
+					"freezr::plane" : [ 2 ],
+					"umenu" : [ 1 ],
+					"vz.playr::playercontrols::Speed_low" : [ 1.0 ],
+					"vz.playr::playercontrols::Speed_hi" : [ 1.0 ],
+					"vz.playr::playercontrols::Playback_range" : [ 0.0, 1.0 ],
+					"vz.playr::playercontrols::play-mult" : [ 0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"grabbr::grabbrcontrols::viewsize" : [ 0.0 ],
+					"grabbr::grabbrcontrols::formatnum[1]" : [ 0 ],
+					"grabbr::grabbrcontrols::vdevnum[1]" : [ 0 ],
+					"playr::playercontrols::play-mult" : [ 0 ],
+					"playr::playercontrols::Playback_range" : [ 0.0, 1.0 ],
+					"playr::playercontrols::Speed_hi" : [ 1.0 ],
+					"playr::playercontrols::Speed_low" : [ 1.0 ],
+					"xfadr::xfade-value" : [ 0.960629921259843 ],
+					"zamplr::colormode" : [ 0.0 ],
+					"zamplr::gain" : [ 8.0 ],
+					"zamplr::horizontal" : [ 0.4 ],
+					"zamplr::vertical" : [ 1.0 ],
+					"zamplr::mode" : [ 2.0 ],
+					"freezr::invert" : [ 0 ],
+					"freezr::palette" : [ 0 ],
+					"freezr::plane" : [ 2 ],
+					"umenu" : [ 1 ],
+					"vz.playr::playercontrols::Speed_low" : [ 1.0 ],
+					"vz.playr::playercontrols::Speed_hi" : [ 1.0 ],
+					"vz.playr::playercontrols::Playback_range" : [ 0.0, 1.0 ],
+					"vz.playr::playercontrols::play-mult" : [ 0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
